@@ -1,5 +1,5 @@
 function Search() {
-  return ;
+  return null ;
 }
 
 export default Search;
